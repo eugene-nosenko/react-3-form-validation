@@ -1,11 +1,13 @@
-import React, { Component } from 'react';
-export { default } from '.';
-import "./Form.css";
+export { default } from './Form';
 
-export class Form extends React.Component {
+// import React, { Component } from 'react';
+// export { default } from '.';
+// import "./Form.css";
 
-  render() {
-    return <div> hfnfnf </div>
-  }
+// export class Form extends React.Component {
 
-}
+//   render() {
+//     return <div> hfnfnf </div>
+//   }
+
+// }
